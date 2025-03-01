@@ -1,0 +1,28 @@
+.container{
+    border: 2px solid black;
+    height: 70vh;
+    width: 30vw;
+    text-align: center;
+    background-color: white;
+    border-radius: 34px;
+
+}
+input{
+    width: 57px;
+    height: 50px;
+    border-radius: 14px;
+    border-color: black;
+    margin-top: 23px;
+}
+h3{
+    margin-top: 67px;
+}
+a{
+    color: blue
+    
+}
+body{
+    background-image: url(background.jpg);
+    margin-top: 94px;
+    margin-left: 399px;
+}
